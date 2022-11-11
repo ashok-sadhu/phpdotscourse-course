@@ -25,7 +25,7 @@
             "homepage": "https://phpdots.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "craftcms/cms": "^3.0.0-beta.10",
         "codeception/codeception": "^3.0",
