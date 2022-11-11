@@ -18,9 +18,7 @@
         }
     ],
     "require": {
-        "craftcms/cms": "^3.0.0-beta.10",
-        "codeception/codeception": "^3.0",
-        "vlucas/phpdotenv": "^3.0"
+        "craftcms/cms": "^3.0.0"
     },
     "autoload": {
         "psr-4": {
