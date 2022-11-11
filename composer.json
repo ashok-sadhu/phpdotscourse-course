@@ -1,7 +1,9 @@
 {
     "name": "phpdotscourse/course",
     "description": "Course Management",
-    "type": "craft-plugin",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "version": "1.1",
     "keywords": [
         "craft",
@@ -10,22 +12,12 @@
         "craft-plugin",
         "course"
     ],
-    "support": {
-        "email": "support@phpdots.com",
-        "issues": "https://github.com/ashok-sadhu/phpdotscourse-course/issues",
-        "forum": "https://craftcms.stackexchange.com/",
-        "source": "https://github.com/craftcms/cms",
-        "docs": "https://craftcms.com/docs",
-        "rss": "https://craftcms.com/changelog.rss"
-    },
-    "license": "MIT",
     "authors": [
         {
             "name": "PHPDots Technologies",
             "homepage": "https://phpdots.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "craftcms/cms": "^3.0.0-beta.10",
         "codeception/codeception": "^3.0",
