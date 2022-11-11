@@ -11,8 +11,12 @@
         "course"
     ],
     "support": {
-        "docs": "???",
-        "issues": "???"
+        "email": "support@phpdots.com",
+        "issues": "https://github.com/ashok-sadhu/phpdotscourse-course/issues",
+        "forum": "https://craftcms.stackexchange.com/",
+        "source": "https://github.com/craftcms/cms",
+        "docs": "https://craftcms.com/docs",
+        "rss": "https://craftcms.com/changelog.rss"
     },
     "license": "MIT",
     "authors": [
@@ -21,13 +25,11 @@
             "homepage": "https://phpdots.com"
         }
     ],
+    "minimum-stability": "beta",
     "require": {
-        "craftcms/cms": "^3.0.0"
-    },
-    "require-dev": {
-      "craftcms/cms": "^3.2.0",
-      "codeception/codeception": "^3.0",
-      "vlucas/phpdotenv": "^3.0"
+        "craftcms/cms": "^3.0.0-beta.10",
+        "codeception/codeception": "^3.0",
+        "vlucas/phpdotenv": "^3.0"
     },
     "autoload": {
         "psr-4": {
