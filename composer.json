@@ -1,5 +1,5 @@
 {
-    "name": "phpdotscourse-course",
+    "name": "phpdotscourse/course",
     "description": "Course Management",
     "type": "craft-plugin",
     "version": "1.1",
